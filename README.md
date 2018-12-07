@@ -5,7 +5,7 @@ This component implements a simple timer. By default it will start counting up f
 
 # History
 Chronometer was added in API level 1.  
-[SEE](https://github.com/n01111786/Chronometer/blob/master/image.png?raw=true)
+[Library.png](https://github.com/n01111786/Chronometer/blob/master/image.png?raw=true) I believe the attached image shows the Library Chronometer is included in. 
 
 # Major Method/Attributes
 Here is a list of the main methods I used.
